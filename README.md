@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Terminal Game
-A simple Tic-tac-toe game made in Java following Alex Lee's Youtube Channel with various personal implementations.
+A simple Tic-tac-toe game made in Java with various personal implementations.
 
 Purpose: To practice and understand better the Java language and syntax.
 
